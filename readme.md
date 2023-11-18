@@ -100,6 +100,9 @@ if __name__ == "__main__":
     ))
 ```
 
+Note:
+- `self.Pending[i](IsLastChild)` is an action to dump an entity at level `i`. 
+
 Run it:
 
 ```
